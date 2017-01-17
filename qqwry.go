@@ -2,7 +2,7 @@ package qqwry
 
 import (
 	"bytes"
-	iconv "github.com/zyxar/go-iconv"
+	iconv "github.com/geo-go/go-iconv"
 	"net"
 	"os"
 )
